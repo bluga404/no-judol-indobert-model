@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+model/
+paper/
+requirements.txt
+README.md
 
 # Virtual environments
 .venv

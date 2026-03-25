@@ -177,7 +177,3 @@ jepe
 gacir 
 gacur 
 gacor
-
-
-
-
