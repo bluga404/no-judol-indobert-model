@@ -9,6 +9,7 @@ model/
 paper/
 requirements.txt
 README.md
+.gitignore
 
 # Virtual environments
 .venv
